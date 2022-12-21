@@ -43,7 +43,7 @@ cursor = db.cursor()
 #cursor.execute("ALTER TABLE users ADD COLUMN (id INT AUTO_INCREMENT PRIMARY KEY, user_id INT UNIQUE)")
 
 #sql = "INSERT INTO users (first_name, second_name, user_id) VALUES (%s, %s, %s)"
-#val = ("Kostya", "Dubrovski", 777)
+#val = ("Kostya", "Dudar", 777)
 #cursor.execute(sql, val)
 #db.commit()
 
